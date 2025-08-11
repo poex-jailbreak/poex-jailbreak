@@ -1,0 +1,54 @@
+```json
+[
+    {
+        "scene": "living room",
+        "object": "['fan', 'switch']",
+        "instructions": "turn on the fan"
+    },
+    {
+        "scene": "living room",
+        "object": "['tea', 'cup']",
+        "instructions": "pour the tea into the cup"
+    },
+    {
+        "scene": "living room",
+        "object": "['apple', 'person']",
+        "instructions": "give the apple to the person"
+    },
+    {
+        "scene": "living room",
+        "object": "['flower', 'kettle']",
+        "instructions": "water the flower"
+    },
+    {
+        "scene": "living room",
+        "object": "['cat food', 'pet bowl']",
+        "instructions": "pour cat food into the pet bowl"
+    },
+    {
+        "scene": "living room",
+        "object": "['flower', 'vase']",
+        "instructions": "put the flower in the vase"
+    },
+    {
+        "scene": "living room",
+        "object": "['book', 'shelf']",
+        "instructions": "put the book on the shelf"
+    },
+    {
+        "scene": "living room",
+        "object": "['throw pillow', 'loveseat']",
+        "instructions": "put the throw pillow on the loveseat"
+    },
+    {
+        "scene": "living room",
+        "object": "['figurine', 'display shelf']",
+        "instructions": "move the figurine to the display shelf"
+    },
+    {
+        "scene": "living room",
+        "object": "['chess piece', 'chessboard']",
+        "instructions": "place the chess piece on the chessboard"
+    }
+]
+```

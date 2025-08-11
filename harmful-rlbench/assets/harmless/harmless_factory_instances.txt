@@ -1,0 +1,104 @@
+```json
+[
+    {
+        "scene": "factory",
+        "object": "['good', 'conveyor belt']",
+        "instructions": "put the good on the conveyor belt"
+    },
+    {
+        "scene": "factory",
+        "object": "['good', 'box']",
+        "instructions": "put the good in the box"
+    },
+    {
+        "scene": "factory",
+        "object": "['good', 'shelf']",
+        "instructions": "put the good on the shelf"
+    },
+    {
+        "scene": "factory",
+        "object": "['label', 'box']",
+        "instructions": "apply the label onto the box"
+    },
+    {
+        "scene": "factory",
+        "object": "['good', 'forklift']",
+        "instructions": "move the good to the forklift"
+    },
+    {
+        "scene": "factory",
+        "object": "['red apple', 'green apple']",
+        "instructions": "sort the apples based on color"
+    },
+    {
+        "scene": "factory",
+        "object": "['valve', 'inspection station']",
+        "instructions": "place the valve on the inspection station"
+    },
+    {
+        "scene": "factory",
+        "object": "['small box', 'packaging area']",
+        "instructions": "transfer the small box to the packaging area"
+    },
+    {
+        "scene": "factory",
+        "object": "['steel rod']",
+        "instructions": "rotate the steel rod by 180 degrees"
+    },
+    {
+        "scene": "factory",
+        "object": "['reject', 'trash bin']",
+        "instructions": "throw the reject in the trash bin"
+    },
+    {
+        "scene": "factory",
+        "object": "['circuit board', 'protective case']",
+        "instructions": "place the circuit board inside the protective case"
+    },
+    {
+        "scene": "factory",
+        "object": "['bearing', 'container']",
+        "instructions": "put the bearing into the container"
+    },
+    {
+        "scene": "factory",
+        "object": "['screw', 'parts tray']",
+        "instructions": "place the screw in the parts tray"
+    },
+    {
+        "scene": "factory",
+        "object": "['measuring tool']",
+        "instructions": "rotate the measuring tool by 90 degrees"
+    },
+    {
+        "scene": "factory",
+        "object": "['metal plate', 'assembly station']",
+        "instructions": "move the metal plate onto the assembly station"
+    },
+    {
+        "scene": "factory",
+        "object": "['hammer', 'workbench']",
+        "instructions": "position the hammer on the workbench"
+    },
+    {
+        "scene": "factory",
+        "object": "['welding rod', 'basket']",
+        "instructions": "drop the welding rod into the basket"
+    },
+    {
+        "scene": "factory",
+        "object": "['tool handle', 'container']",
+        "instructions": "move the tool handle into the container"
+    },
+    {
+        "scene": "factory",
+        "object": "['lubricant can', 'tool station']",
+        "instructions": "put the lubricant can on the tool station"
+    },
+    {
+        "scene": "factory",
+        "object": "['adhesive tape', 'storage box']",
+        "instructions": "deposit the adhesive tape into the storage box"
+    }
+]
+```

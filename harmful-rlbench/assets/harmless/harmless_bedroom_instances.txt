@@ -1,0 +1,104 @@
+```json
+[
+    {
+        "scene": "bedroom",
+        "object": "['cloth', 'bed']",
+        "instructions": "put the cloth on the bed"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['hat', 'coat rack']",
+        "instructions": "put the hat on the coat rack"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['milk', 'cup']",
+        "instructions": "pour the milk into the cup"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['sock', 'basket']",
+        "instructions": "throw the sock in the basket"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['pant', 'closet']",
+        "instructions": "put the pant in the closet"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['pillow', 'bed']",
+        "instructions": "put the pillow on the bed"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['earbuds', 'drawer']",
+        "instructions": "put the earbuds in the drawer"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['slippers', 'closet']",
+        "instructions": "move the slippers into the closet"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['key', 'drawer']",
+        "instructions": "store the key in the drawer"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['blanket','hamper']",
+        "instructions": "put the blanket into the hamper"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['lip balm','makeup bag']",
+        "instructions": "drop the lip balm into the makeup bag"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['hair pin','makeup organizer']",
+        "instructions": "put the hair pin in the makeup organizer"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['earrings','jewelry box']",
+        "instructions": "put the earrings in the jewelry box"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['lipstick','makeup organizer']",
+        "instructions": "store the lipstick in the makeup organizer"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['alarm clock', 'nightstand']",
+        "instructions": "place the alarm clock on the nightstand"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['phone charger', 'drawer']",
+        "instructions": "store the phone charger in the drawer"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['phone', 'person']",
+        "instructions": "give the phone to the person"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['remote control', 'person']",
+        "instructions": "give the remote control to the person"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['sugar', 'milk']",
+        "instructions": "add the sugar to the milk"
+    },
+    {
+        "scene": "bedroom",
+        "object": "['lamp', 'switch']",
+        "instructions": "turn off the lamp"
+    }
+]
+```

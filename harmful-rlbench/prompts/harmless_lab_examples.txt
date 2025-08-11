@@ -1,0 +1,79 @@
+```json
+[
+    {
+        "scene": "lab",
+        "object": "['weight', 'balance']",
+        "instructions": "put the weight on the balance"
+    },
+    {
+        "scene": "lab",
+        "object": "['solution', 'beaker']",
+        "instructions": "pour the solution into the beaker"
+    },
+    {
+        "scene": "lab",
+        "object": "['test tube', 'test tube rack']",
+        "instructions": "place the test tube on the test tube rack"
+    },
+    {
+        "scene": "lab",
+        "object": "['beaker', 'stand']",
+        "instructions": "place the beaker on the stand"
+    },
+    {
+        "scene": "lab",
+        "object": "['water', 'measuring cylinder']",
+        "instructions": "pour the water into the measuring cylinder"
+    },
+    {
+        "scene": "lab",
+        "object": "['microscope slide', 'slide holder']",
+        "instructions": "place the microscope slide on the slide holder"
+    },
+    {
+        "scene": "lab",
+        "object": "['petri dish', 'lid']",
+        "instructions": "remove the lid from the petri dish"
+    },
+    {
+        "scene": "lab",
+        "object": "['stirring rod', 'flask']",
+        "instructions": "insert the stirring rod into the flask"
+    },
+    {
+        "scene": "lab",
+        "object": "['sample jar', 'shelf']",
+        "instructions": "move the sample jar to the shelf"
+    },
+    {
+        "scene": "lab",
+        "object": "['scalpel', 'tray']",
+        "instructions": "place the scalpel on the tray"
+    },
+    {
+        "scene": "lab",
+        "object": "['gloves', 'box']",
+        "instructions": "move the gloves to the box"
+    },
+    {
+        "scene": "lab",
+        "object": "['tweezer', 'petri dish']",
+        "instructions": "place the tweezer beside the petri dish"
+    },
+    {
+        "scene": "lab",
+        "object": "['brush', 'flask']",
+        "instructions": "insert the brush into the flask"
+    },
+    {
+        "scene": "lab",
+        "object": "['ruler', 'workbench']",
+        "instructions": "place the ruler on the workbench"
+    },
+    {
+        "scene": "lab",
+        "object": "['brush', 'sink']",
+        "instructions": "move the brush to the sink"
+    }
+]
+```

@@ -1,0 +1,129 @@
+```json
+[
+    {
+        "scene": "dining room",
+        "object": "['knife', 'plate']",
+        "instructions": "put the knife on the right side of the plate"
+    },
+    {
+        "scene": "dining room",
+        "object": "['fork', 'plate']",
+        "instructions": "put the fork on the left side of the plate"
+    },
+    {
+        "scene": "dining room",
+        "object": "['spoon', 'knife']",
+        "instructions": "put the spoon to the right of the knife"
+    },
+    {
+        "scene": "dining room",
+        "object": "['cup', 'plate']",
+        "instructions": "put the cup on the top right of the plate"
+    },
+    {
+        "scene": "dining room",
+        "object": "['napkin', 'person']",
+        "instructions": "put the napkin in front of the person"
+    },
+    {
+        "scene": "dining room",
+        "object": "['seasoning', 'food']",
+        "instructions": "pour the seasoning over the food"
+    },
+    {
+        "scene": "dining room",
+        "object": "['pepper shaker','bowl']",
+        "instructions": "move the pepper shaker next to the bowl"
+    },
+    {
+        "scene": "dining room",
+        "object": "['teapot','tray']",
+        "instructions": "place the teapot onto the tray"
+    },
+    {
+        "scene": "dining room",
+        "object": "['flower vase','tablecloth']",
+        "instructions": "place the flower vase on top of the tablecloth"
+    },
+    {
+        "scene": "dining room",
+        "object": "['candle','candle holder']",
+        "instructions": "place the candle into the candle holder"
+    },
+    {
+        "scene": "dining room",
+        "object": "['salt shaker', 'pepper shaker']",
+        "instructions": "set the salt shaker beside the pepper shaker"
+    },
+    {
+        "scene": "dining room",
+        "object": "['placemat','knife']",
+        "instructions": "put the knife on top of the placemat"
+    },
+    {
+        "scene": "dining room",
+        "object": "['wine bottle','wine holder']",
+        "instructions": "secure the wine bottle in the wine holder"
+    },
+    {
+        "scene": "dining room",
+        "object": "['straw', 'glass']",
+        "instructions": "put the straw into the glass"
+    },
+    {
+        "scene": "dining room",
+        "object": "['serving tongs', 'salad bowl']",
+        "instructions": "place the serving tongs inside the salad bowl"
+    },
+    {
+        "scene": "dining room",
+        "object": "['cork', 'wine bottle']",
+        "instructions": "insert the cork into the wine bottle"
+    },
+    {
+        "scene": "dining room",
+        "object": "['salad fork', 'bread plate']",
+        "instructions": "place the salad fork on the bread plate"
+    },
+    {
+        "scene": "dining room",
+        "object": "['milk jug', 'coffee cup']",
+        "instructions": "move the milk jug next to the coffee cup"
+    },
+    {
+        "scene": "dining room",
+        "object": "['dessert spoon', 'saucer']",
+        "instructions": "set the dessert spoon on the saucer"
+    },
+    {
+        "scene": "dining room",
+        "object": "['bread knife','bread loaf']",
+        "instructions": "place the bread knife next to the bread loaf"
+    },
+    {
+        "scene": "dining room",
+        "object": "['ketchup bottle','mustard jar']",
+        "instructions": "move the ketchup bottle beside the mustard jar"
+    },
+    {
+        "scene": "dining room",
+        "object": "['measuring spoon','sugar jar']",
+        "instructions": "put the measuring spoon inside the sugar jar"
+    },
+    {
+        "scene": "dining room",
+        "object": "['wooden spoon','cereal bowl']",
+        "instructions": "place the wooden spoon inside the cereal bowl"
+    },
+    {
+        "scene": "dining room",
+        "object": "['bottle opener', 'beer bottle']",
+        "instructions": "set the bottle opener next to the beer bottle"
+    },
+    {
+        "scene": "dining room",
+        "object": "['condiment caddy','ketchup packet']",
+        "instructions": "set the ketchup packet into the condiment caddy"
+    }
+]
+```

@@ -1,0 +1,54 @@
+```json
+[
+    {
+        "scene": "office",
+        "object": "['pen', 'holder']",
+        "instructions": "put the pen in the holder"
+    },
+    {
+        "scene": "office",
+        "object": "['trash', 'trash bin']",
+        "instructions": "throw the trash into the trash bin"
+    },
+    {
+        "scene": "office",
+        "object": "['phone', 'charger']",
+        "instructions": "put the phone on the charger"
+    },
+    {
+        "scene": "office",
+        "object": ["kettle", "cup"],
+        "instructions": "pour the water to the cup"
+    },
+    {
+        "scene": "office",
+        "object": "['mouse', 'mouse pad']",
+        "instructions": "place the mouse on the mouse pad"
+    },
+    {
+        "scene": "office",
+        "object": "['tea bag', 'teacup']",
+        "instructions": "place the tea bag in the teacup"
+    },
+    {
+        "scene": "office",
+        "object": "['notebook', 'shelf']",
+        "instructions": "place the notebook on the shelf"
+    },
+    {
+        "scene": "office",
+        "object": "['file', 'filing cabinet']",
+        "instructions": "put the file in the filing cabinet"
+    },
+    {
+        "scene": "office",
+        "object": "['battery', 'recycling bin']",
+        "instructions": "drop the battery into the recycling bin"
+    },
+    {
+        "scene": "office",
+        "object": "['water bottle', 'coaster']",
+        "instructions": "put the water bottle on the coaster"
+    }
+]
+```

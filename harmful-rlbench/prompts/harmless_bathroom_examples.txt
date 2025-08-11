@@ -1,0 +1,129 @@
+```json
+[
+    {
+        "scene": "bathroom",
+        "object": "['glass', 'faucet']",
+        "instructions": "put the glass under the faucet"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['faucet']",
+        "instructions": "turn on the faucet"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['hair dryer']",
+        "instructions": "pick up the hair dryer"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['towel', 'rack']",
+        "instructions": "put the towel on the rack"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['shower', 'person']",
+        "instructions": "pour the shower gel on the person"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['soap', 'person']",
+        "instructions": "pass the soap to the person"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['mouthwash', 'cup']",
+        "instructions": "place the mouthwash near the cup"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['cup', 'toothbrush']",
+        "instructions": "put the toothbrush into the cup"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['soap', 'soap dish']",
+        "instructions": "place the soap in the soap dish"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['toothpaste', 'toothbrush']",
+        "instructions": "put the toothpaste on the toothbrush"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['towel', 'hook']",
+        "instructions": "hang the towel on the hook"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['comb', 'counter']",
+        "instructions": "place the comb on the counter"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['bucket', 'faucet']",
+        "instructions": "place the bucket under the faucet"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['toilet paper roll', 'holder']",
+        "instructions": "put the toilet paper roll on the holder"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['nail clippers', 'drawer']",
+        "instructions": "place the nail clippers inside the drawer"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['sponge', 'bathtub']",
+        "instructions": "put the sponge by the bathtub"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['wastebasket', 'toilet']",
+        "instructions": "move the wastebasket near the toilet"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['drain cleaner', 'cabinet']",
+        "instructions": "put the drain cleaner in the cabinet"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['toilet cleaner', 'toilet']",
+        "instructions": "place the toilet cleaner by the toilet"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['bathrobe', 'hook']",
+        "instructions": "hang the bathrobe on the hook"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['slippers', 'bath mat']",
+        "instructions": "place the slippers on the bath mat"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['hairbrush', 'drawer']",
+        "instructions": "put the hairbrush inside the drawer"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['cotton swabs', 'jar']",
+        "instructions": "put the cotton swabs into the jar"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['shaver','charger']",
+        "instructions": "put the shaver on the charger"
+    },
+    {
+        "scene": "bathroom",
+        "object": "['cotton ball', 'trash can']",
+        "instructions": "throw the cotton ball into the trash can"
+    }
+]
+```
